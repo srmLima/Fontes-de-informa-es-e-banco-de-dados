@@ -9,3 +9,8 @@ Apresentação prodzuzida pelo Canvas, e foi apresentada de forma oral.
 Ensaio para a API.
 [GPI-BANCO DE DADOS.pdf](https://github.com/user-attachments/files/25617861/GPI-BANCO.DE.DADOS.pdf)
 <img width="1206" height="680" alt="Captura de tela 2026-02-27 224125" src="https://github.com/user-attachments/assets/2183d8b3-999f-41e0-859c-a33ee8d14e37" />
+
+## Início ao Excel
+Trabalho com gráficos e tabelas.
+[b<img width="684" height="843" alt="Captura de tela 2026-03-06 224649" src="https://github.com/user-attachments/assets/784d8c75-ce2c-4f17-bf65-d27589e05aa0" />
+alancete_receita.xlsx](https://github.com/user-attachments/files/25808326/balancete_receita.xlsx)
