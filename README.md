@@ -12,5 +12,5 @@ Ensaio para a API.
 
 ## Início ao Excel
 Trabalho com gráficos e tabelas.
-[balancete_receita.xlsx](https://github.com/user-attachments/files/25808339/balancete_receita.xlsx)
-<img width="684" height="843" alt="Captura de tela 2026-03-06 224649" src="https://github.com/user-attachments/assets/3e58c853-5085-425a-a80f-28dfe913aafc" />
+[balancete_receita.xlsx(1).xlsx](https://github.com/user-attachments/files/25956027/balancete_receita.xlsx.1.xlsx)
+<img width="1919" height="824" alt="Captura de tela 2026-03-12 211927" src="https://github.com/user-attachments/assets/2c81a3be-4b47-4274-875d-bd1e524ccb86" />
