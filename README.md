@@ -14,3 +14,6 @@ Ensaio para a API.
 Trabalho com gráficos e tabelas.
 [balancete_receita.xlsx(1).xlsx](https://github.com/user-attachments/files/25956027/balancete_receita.xlsx.1.xlsx)
 <img width="1919" height="824" alt="Captura de tela 2026-03-12 211927" src="https://github.com/user-attachments/assets/2c81a3be-4b47-4274-875d-bd1e524ccb86" />
+
+## Aprimorando técnicas no excel
+Tratamento de dados e visualização em gráfico dinâmico
