@@ -19,4 +19,5 @@ Trabalho com gráficos e tabelas.
 Tratamento de dados e visualização em gráfico dinâmico
 
 ***Tabela e Gráfico*** - [https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/commit/fa6ad528f9d01d8f2d38e070d7c189a4d30aec32](https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/blob/main/DESPESASJC.xlsx)
+
 ***Evidência*** - https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/commit/fa6ad528f9d01d8f2d38e070d7c189a4d30aec32
