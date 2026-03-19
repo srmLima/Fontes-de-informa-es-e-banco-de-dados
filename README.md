@@ -24,3 +24,7 @@ Tratamento de dados e visualização em gráfico dinâmico
 ***Tabela e Gráfico*** - [https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/commit/fa6ad528f9d01d8f2d38e070d7c189a4d30aec32](https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/blob/main/DESPESASJC.xlsx)
 
 ***Evidência*** - https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/commit/fa6ad528f9d01d8f2d38e070d7c189a4d30aec32
+
+***Tabela e Gráfico*** - https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/blob/main/fornecedores.xlsx
+
+***Evidência*** - https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/blob/main/Captura%20de%20tela%20de%202026-03-19%2016-29-44.png
