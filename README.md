@@ -30,4 +30,5 @@ Tratamento de dados e visualização em gráfico dinâmico
 ***Evidência*** - https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/blob/main/Captura%20de%20tela%20de%202026-03-19%2016-29-44.png
 
 ## CURSO "Criando Trabalhos Acadêmicos com Ferramentas Digitais", no âmbito da plataforma Aprenda Mais.
+<img width="1121" height="763" alt="Captura de tela 2026-04-10 220541" src="https://github.com/user-attachments/assets/776c2b31-c477-4739-9233-197521c52531" />
 [certificado.pdf](https://github.com/user-attachments/files/26642078/certificado.pdf)
