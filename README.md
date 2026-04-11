@@ -28,3 +28,6 @@ Tratamento de dados e visualização em gráfico dinâmico
 ***Tabela e Gráfico*** - https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/blob/main/fornecedores.xlsx
 
 ***Evidência*** - https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/blob/main/Captura%20de%20tela%20de%202026-03-19%2016-29-44.png
+
+## CURSO "Criando Trabalhos Acadêmicos com Ferramentas Digitais", no âmbito da plataforma Aprenda Mais.
+[certificado.pdf](https://github.com/user-attachments/files/26642078/certificado.pdf)
