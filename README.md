@@ -32,3 +32,6 @@ Tratamento de dados e visualização em gráfico dinâmico
 ## CURSO "Criando Trabalhos Acadêmicos com Ferramentas Digitais", no âmbito da plataforma Aprenda Mais.
 <img width="1121" height="763" alt="Captura de tela 2026-04-10 220541" src="https://github.com/user-attachments/assets/776c2b31-c477-4739-9233-197521c52531" />
 [certificado.pdf](https://github.com/user-attachments/files/26642078/certificado.pdf)
+
+## Utilizando o excel para o tratamento de "DADOS ABERTOS-SP" do segmento da educação, com a fórmula "SOMASES".
+<img width="1919" height="841" alt="Captura de tela 2026-04-10 221041" src="https://github.com/user-attachments/assets/5611617a-da9c-4812-b69b-b7448f769a4b" />
