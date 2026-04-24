@@ -36,3 +36,7 @@ Tratamento de dados e visualização em gráfico dinâmico
 ## Utilizando o excel para o tratamento de "DADOS ABERTOS-SP" do segmento da educação, com a fórmula "SOMASES".
 https://docs.google.com/spreadsheets/d/19HB8JEV6hIH7cVFf6rd-9ZEfIw8-Oeon/edit?usp=sharing&ouid=101810325832933042067&rtpof=true&sd=true
 <img width="1919" height="841" alt="Captura de tela 2026-04-10 221041" src="https://github.com/user-attachments/assets/5611617a-da9c-4812-b69b-b7448f769a4b" />
+
+## INÍCIO AO POWER BI
+MONTANDO UM DASHBOARDING DAS DESPESAS DO 1° TRIMESTRE DE SÃO JOSÉ DOS CAMPOS
+
