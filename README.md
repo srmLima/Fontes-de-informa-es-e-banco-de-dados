@@ -39,5 +39,5 @@ https://docs.google.com/spreadsheets/d/19HB8JEV6hIH7cVFf6rd-9ZEfIw8-Oeon/edit?us
 
 ## INÍCIO AO POWER BI
 MONTANDO UM DASHBOARDING DAS DESPESAS DO 1° TRIMESTRE DE SÃO JOSÉ DOS CAMPOS
-https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/blob/main/dashboard%20despesas%20-%20trimestre%20sjc.pbix
+***https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/blob/main/dashboard%20despesas%20-%20trimestre%20sjc.pbix***
 <img width="1919" height="991" alt="Captura de tela 2026-04-23 212145" src="https://github.com/user-attachments/assets/e5eb067d-1600-4a8f-8912-852a1cae4245" />
