@@ -46,10 +46,12 @@ MONTANDO UM DASHBOARDING DAS DESPESAS DO 1° TRIMESTRE DE SÃO JOSÉ DOS CAMPOS
 MONTANDO UM DASHBOARD PARA RESPONDER AS SEGUINTES QUESTÕES:
 
 ***1) EM QUAL ANO E MÊS HOUVE O MENOR SALDO DE MOVIMENTAÇÃO? E O MAIOR?***
+
 O ano que obteve o menor saldo de movimentação foi em 2020, no mês de abril.
 <img width="1355" height="736" alt="image" src="https://github.com/user-attachments/assets/b61d3cb9-7f4e-4913-b5a9-d92237e1c0e8" />
 
 ***2) EM QUAL ANO A MÉDIA DE MOVIMENTAÇÃO FOI MAIOR QUE ZERO?***
+
 O ano que teve amior saldo de movimentação foi em 2025.
 <img width="1359" height="739" alt="image" src="https://github.com/user-attachments/assets/e4f55817-61a1-4878-997b-21570ca1d8d3" />
 
