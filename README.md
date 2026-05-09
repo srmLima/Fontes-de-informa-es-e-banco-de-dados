@@ -44,6 +44,7 @@ MONTANDO UM DASHBOARDING DAS DESPESAS DO 1° TRIMESTRE DE SÃO JOSÉ DOS CAMPOS
 
 ## UTILIZANDO O POWER BI PARA O TRATAMENTO DE EMPREGO FORMAIS DO ESTADO DE SÃO PAULO
 MONTANDO UM DASHBOARD PARA RESPONDER AS SEGUINTES QUESTÕES:
+
 ***1) EM QUAL ANO E MÊS HOUVE O MENOR SALDO DE MOVIMENTAÇÃO? E O MAIOR?***
 O ano que obteve o menor saldo de movimentação foi em 2020, no mês de abril.
 <img width="1355" height="736" alt="image" src="https://github.com/user-attachments/assets/b61d3cb9-7f4e-4913-b5a9-d92237e1c0e8" />
