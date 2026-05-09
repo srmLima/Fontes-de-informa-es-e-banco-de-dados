@@ -52,7 +52,7 @@ O ano que obteve o menor saldo de movimentação foi em 2020, no mês de abril.
 
 ***2) EM QUAL ANO A MÉDIA DE MOVIMENTAÇÃO FOI MAIOR QUE ZERO?***
 
-O ano que teve amior saldo de movimentação foi em 2025.
+O ano que teve maior saldo de movimentação foi em 2025.
 <img width="1359" height="739" alt="image" src="https://github.com/user-attachments/assets/e4f55817-61a1-4878-997b-21570ca1d8d3" />
 
 ***https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/blob/main/empregoformal.pbix***
