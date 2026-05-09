@@ -41,3 +41,15 @@ https://docs.google.com/spreadsheets/d/19HB8JEV6hIH7cVFf6rd-9ZEfIw8-Oeon/edit?us
 MONTANDO UM DASHBOARDING DAS DESPESAS DO 1° TRIMESTRE DE SÃO JOSÉ DOS CAMPOS
 ***https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/blob/main/dashboard%20despesas%20-%20trimestre%20sjc.pbix***
 <img width="1919" height="991" alt="Captura de tela 2026-04-23 212145" src="https://github.com/user-attachments/assets/e5eb067d-1600-4a8f-8912-852a1cae4245" />
+
+## UTILIZANDO O POWER BI PARA O TRATAMENTO DE EMPREGO FORMAIS DO ESTADO DE SÃO PAULO
+MONTANDO UM DASHBOARD PARA RESPONDER AS SEGUINTES QUESTÕES:
+***1) EM QUAL ANO E MÊS HOUVE O MENOR SALDO DE MOVIMENTAÇÃO? E O MAIOR?***
+O ano que obteve o menor saldo de movimentação foi em 2020, no mês de abril.
+<img width="1355" height="736" alt="image" src="https://github.com/user-attachments/assets/b61d3cb9-7f4e-4913-b5a9-d92237e1c0e8" />
+
+***2) EM QUAL ANO A MÉDIA DE MOVIMENTAÇÃO FOI MAIOR QUE ZERO?***
+O ano que teve amior saldo de movimentação foi em 2025.
+<img width="1359" height="739" alt="image" src="https://github.com/user-attachments/assets/e4f55817-61a1-4878-997b-21570ca1d8d3" />
+
+***https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/blob/main/empregoformal.pbix***
