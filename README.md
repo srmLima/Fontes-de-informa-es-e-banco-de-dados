@@ -56,3 +56,8 @@ O ano que teve maior saldo de movimentação foi em 2025.
 <img width="1359" height="739" alt="image" src="https://github.com/user-attachments/assets/e4f55817-61a1-4878-997b-21570ca1d8d3" />
 
 ***https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/blob/main/empregoformal.pbix***
+
+## REGRESSÕES LINEAR
+UTILIZANDO O EXCEL PARA REPRESENTAR.
+<img width="1613" height="827" alt="image" src="https://github.com/user-attachments/assets/6c7237f0-ea3a-49ec-8853-d054a2732d3f" />
+[Ice Cream Sales - temperatures.xlsx](https://github.com/user-attachments/files/27782117/Ice.Cream.Sales.-.temperatures.xlsx)
