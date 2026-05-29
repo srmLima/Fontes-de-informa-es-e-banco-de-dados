@@ -61,3 +61,8 @@ O ano que teve maior saldo de movimentação foi em 2025.
 UTILIZANDO O EXCEL PARA REPRESENTAR.
 <img width="1613" height="827" alt="image" src="https://github.com/user-attachments/assets/6c7237f0-ea3a-49ec-8853-d054a2732d3f" />
 [Ice Cream Sales - temperatures.xlsx](https://github.com/user-attachments/files/27782117/Ice.Cream.Sales.-.temperatures.xlsx)
+
+## AVALIAÇÃO - 29/05
+DASHBOARDING NUPCIALIDADE
+[idade_media_casamento.xlsx](https://github.com/user-attachments/files/28413929/idade_media_casamento.xlsx)
+[nupcialidade.xlsx](https://github.com/user-attachments/files/28413928/nupcialidade.xlsx)
