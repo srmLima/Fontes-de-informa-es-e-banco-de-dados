@@ -68,7 +68,5 @@ DASHBOARDING NUPCIALIDADE
 
 [nupcialidade.xlsx](https://github.com/user-attachments/files/28413928/nupcialidade.xlsx)
 
-
-
-
-
+VÍDEO: https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/blob/main/Gravando%202026-05-29%20210747.mp4
+DASHBOARDING: https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/blob/main/Dashboard%20de%20Nupcialidade.pbiX
