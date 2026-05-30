@@ -65,4 +65,10 @@ UTILIZANDO O EXCEL PARA REPRESENTAR.
 ## AVALIAÇÃO - 29/05
 DASHBOARDING NUPCIALIDADE
 [idade_media_casamento.xlsx](https://github.com/user-attachments/files/28413929/idade_media_casamento.xlsx)
+
 [nupcialidade.xlsx](https://github.com/user-attachments/files/28413928/nupcialidade.xlsx)
+
+
+
+
+
